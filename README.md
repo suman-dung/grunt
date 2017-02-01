@@ -1,2 +1,0 @@
-# grunt
-grunt sample project
